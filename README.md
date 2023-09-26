@@ -13,7 +13,7 @@ As a Data Analyst, I led a pivotal project in 𝗧𝗲𝗹𝗮𝗻𝗴𝗮𝗻�
           PowerPoint Presentation
 Interactive PowerBI_Reports :https://www.novypro.com/profile_projects/shailsahu
 Portfolio Link : https://codebasics.io/portfolio/Shail-Sahu
-YouTube : https://youtu.be/KBw1jQ1mSGk
+
 
 Insights:
 --E-challan revenue in Telangana surged significantly, increasing from 12% in 2020 to an impressive 48% in 2022
